@@ -1,0 +1,40 @@
+#myH1{
+   display: block;
+   text-align: center;
+   font-family: sans-serif;
+}
+#myDiv{
+   display: block;
+   text-align: center;
+   }
+   #div{
+      display: block;
+      text-align: center;
+   }
+   #myButton{
+      padding: 10px 20px;
+      font-size: 1rem;
+      color: black;
+      background-color: rgb(176, 243, 221);
+      border-radius: 5px;
+
+   }
+   #myButton:hover{
+      background-color:rgb(100, 238, 192) ;
+      cursor: pointer;
+   }
+   #addToDo{
+      height: 50px;
+      width: 50px;
+      border: 1px solid black;
+      vertical-align: middle;
+      font-size: 30px;
+   }
+   .to-dos{
+      margin-top: 25px;
+   }
+   .paragraph-styling{
+      margin: 0;
+      cursor:pointer;
+      
+   }
